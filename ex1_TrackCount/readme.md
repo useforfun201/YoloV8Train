@@ -1,0 +1,1 @@
+# Thay doi model de dat ket qua train tot hon, epoc cung dc
